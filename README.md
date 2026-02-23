@@ -89,5 +89,5 @@ These findings suggest evolutionary conservation of the catalytic ATPase machine
 ---
 
 ## Author
-[Kashi Kumar]  
+Kashi Kumar  
 MSc Zoology | Bioinformatics & Molecular Biology Enthusiast  
