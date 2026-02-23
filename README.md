@@ -2,7 +2,7 @@
 Comparative evolutionary and domain analysis of human SMARCA4 and yeast SNF2.
 # Comparative Evolutionary and Domain Analysis of SNF2 Family Proteins
 
-## 📌 Project Overview
+## Project Overview
 This project investigates the evolutionary conservation and domain architecture of the SNF2 family chromatin remodeler proteins by comparing:
 
 - **Human SMARCA4 (BRG1)**
@@ -12,7 +12,7 @@ The goal is to identify conserved catalytic regions, evaluate sequence similarit
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify orthologous relationship between SMARCA4 and SNF2
 - Determine conserved and divergent regions
 - Analyze domain architecture differences
@@ -20,7 +20,7 @@ The goal is to identify conserved catalytic regions, evaluate sequence similarit
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - NCBI BLAST (blastp)
 - Clustal Omega (Multiple Sequence Alignment)
 - InterProScan (Domain Annotation)
@@ -29,7 +29,7 @@ The goal is to identify conserved catalytic regions, evaluate sequence similarit
 
 ---
 
-## 🧬 Methods
+## Methods
 
 ### 1️⃣ Sequence Retrieval
 Protein sequences were retrieved from the NCBI Protein database:
@@ -50,7 +50,7 @@ InterProScan was used to identify functional domains and conserved structural mo
 
 ---
 
-## 🔬 Key Findings (Week 1 Results)
+## Key Findings (Week 1 Results)
 
 - Query coverage between human SMARCA4 and yeast SNF2: **~54%**
 - Two significant alignment regions (HSPs) identified:
@@ -63,9 +63,31 @@ These findings suggest evolutionary conservation of the catalytic ATPase machine
 
 ---
 
-## 📊 Project Structure
+## Project Structure
 
 - data/ → Raw protein sequences
 - results/ → BLAST outputs, alignment files
 - figures/ → Screenshots and annotated images
 - docs/ → Detailed report and notes
+---
+
+## Future Work
+- Construct phylogenetic tree of SNF2 family members
+- Map conserved regions onto AlphaFold structures
+- Compare domain expansion across species
+- Explore functional enrichment of interacting partners
+
+---
+
+## Skills Demonstrated
+- Comparative genomics
+- Sequence similarity analysis
+- Domain annotation interpretation
+- Evolutionary reasoning
+- Bioinformatics workflow documentation
+
+---
+
+## Author
+[Kashi Kumar]  
+MSc Zoology | Bioinformatics & Molecular Biology Enthusiast  
