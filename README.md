@@ -64,3 +64,8 @@ These findings suggest evolutionary conservation of the catalytic ATPase machine
 ---
 
 ## 📊 Project Structure
+
+- data/ → Raw protein sequences
+- results/ → BLAST outputs, alignment files
+- figures/ → Screenshots and annotated images
+- docs/ → Detailed report and notes
