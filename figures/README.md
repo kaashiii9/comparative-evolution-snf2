@@ -1,1 +1,0 @@
-Screenshots and annotated figures.
