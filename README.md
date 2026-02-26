@@ -55,7 +55,7 @@ These results indicate strong evolutionary conservation in the ATPase catalytic 
 
 BLAST evidence:
 
-![BLAST Summary](2_blast_analysis/smarca blast run results.png)
+![BLAST Summary](02_blast_analysis/smarca blast run results.png)
 
 Alignment Range 1 (Part 1):
 ![Range 1 Part 1](2_blast_analysis/smarca4 range 1 part 1.png)
