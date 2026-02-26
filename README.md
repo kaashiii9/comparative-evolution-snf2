@@ -31,7 +31,7 @@ SMARCA4 and SNF2 are ATP-dependent chromatin remodeling proteins belonging to th
 
 ## Workflow Overview
 
-### 01 — Sequence Retrieval
+### 1 — Sequence Retrieval
 
 Protein sequences were retrieved from NCBI Protein database:
 
@@ -41,7 +41,7 @@ Protein sequences were retrieved from NCBI Protein database:
 
 ---
 
-### 02 — BLAST Analysis
+### 2 — BLAST Analysis
 
 BLASTp was used to identify homologous regions between human and yeast proteins.
 
@@ -55,11 +55,20 @@ These results indicate strong evolutionary conservation in the ATPase catalytic 
 
 BLAST evidence:
 
-![BLAST Summary](02_blast_analysis/blast_summary.png)
+![BLAST Summary](2_blast_analysis/smarca blast run results.png)
+
+Alignment Range 1 (Part 1):
+![Range 1 Part 1](2_blast_analysis/smarca4 range 1 part 1.png)
+
+Alignment Range 1 (Part 2):
+![Range 1 Part 2](2_blast_analysis/smarca4 range 1 part 2.png)
+
+Alignment Range 2:
+![Range 2](2_blast_analysis/smarca4 range 2.png)
 
 ---
 
-### 03 — Multiple Sequence Alignment
+### 3 — Multiple Sequence Alignment
 
 Clustal Omega alignment revealed a highly conserved central region corresponding to the ATP-dependent helicase core.
 
@@ -71,13 +80,13 @@ Key observations:
 
 Alignment evidence:
 
-![Conserved Alignment](03_multiple_sequence_alignment/conserved_core_alignment.png)
+![Conserved Alignment](3_multiple_sequence_alignment/smarca4 and snf2 conserved region from clustal.png)
 
 This confirms conservation of the ATP-dependent chromatin remodeling mechanism.
 
 ---
 
-### 04 — Domain Architecture Analysis
+### 4 — Domain Architecture Analysis
 
 InterProScan analysis identified conserved functional domains in both proteins.
 
@@ -100,10 +109,12 @@ Yeast SNF2 domains:
 Domain architecture evidence:
 
 Human SMARCA4:
-![Human InterPro](04_domain_architecture/human_interpro.png)
+![Human Domain](4_domain_architecture/smarca4 domain INTERPRO.png)
 
 Yeast SNF2:
-![Yeast InterPro](04_domain_architecture/yeast_interpro.png)
+![Yeast Domain Part 1](4_domain_architecture/snf2 domain part 1 INTERPRO.png)
+
+![Yeast Domain Part 2](4_domain_architecture/snf2 domain part 2 INTERPRO.png)
 
 ---
 
