@@ -55,16 +55,16 @@ These results indicate strong evolutionary conservation in the ATPase catalytic 
 
 BLAST evidence:
 
-![BLAST Summary](02_blast_analysis/smarca blast run results.png)
+![BLAST Summary](2_blast_analysis/smarca%20blast%20run%20results.png)
 
-Alignment Range 1 (Part 1):
-![Range 1 Part 1](2_blast_analysis/smarca4 range 1 part 1.png)
+Alignment Range 1 (Part 1):  
+![Range 1 Part 1](2_blast_analysis/smarca4%20range%201%20part%201.png)
 
-Alignment Range 1 (Part 2):
-![Range 1 Part 2](2_blast_analysis/smarca4 range 1 part 2.png)
+Alignment Range 1 (Part 2):  
+![Range 1 Part 2](2_blast_analysis/smarca4%20range%201%20part%202.png)
 
-Alignment Range 2:
-![Range 2](2_blast_analysis/smarca4 range 2.png)
+Alignment Range 2:  
+![Range 2](2_blast_analysis/smarca4%20range%202.png)
 
 ---
 
@@ -80,7 +80,7 @@ Key observations:
 
 Alignment evidence:
 
-![Conserved Alignment](3_multiple_sequence_alignment/smarca4 and snf2 conserved region from clustal.png)
+![Conserved Alignment](3_multiple_sequence_alignment/smarca4%20and%20snf2%20conserved%20region%20from%20clustal.png)
 
 This confirms conservation of the ATP-dependent chromatin remodeling mechanism.
 
@@ -109,12 +109,12 @@ Yeast SNF2 domains:
 Domain architecture evidence:
 
 Human SMARCA4:
-![Human Domain](4_domain_architecture/smarca4 domain INTERPRO.png)
+![Human Domain](4_domain_architecture/smarca4%20domain%20INTERPRO.png)
 
 Yeast SNF2:
-![Yeast Domain Part 1](4_domain_architecture/snf2 domain part 1 INTERPRO.png)
+![Yeast Domain Part 1](4_domain_architecture/snf2%20domain%20part%201%20INTERPRO.png)
 
-![Yeast Domain Part 2](4_domain_architecture/snf2 domain part 2 INTERPRO.png)
+![Yeast Domain Part 2](4_domain_architecture/snf2%20domain%20part%202%20INTERPRO.png)
 
 ---
 
