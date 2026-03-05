@@ -113,3 +113,46 @@ This conserved region corresponds to the DEXHc ATPase domain and helicase domain
 In contrast, the N-terminal and C-terminal regions showed fewer identical residues and more mismatches, indicating greater sequence divergence. These regions likely correspond to regulatory domains that have evolved differently in yeast and humans to support species-specific functions.  
 
 Overall, the Clustal Omega alignment confirms that the ATP-dependent helicase catalytic core is highly conserved between yeast SNF2 and human SMARCA4, supporting the conclusion that these proteins share a common evolutionary origin and retain the same fundamental chromatin remodelling function.
+---
+
+## Domain Architecture Analysis Using InterPro
+
+To further investigate the functional significance of the conserved regions identified through multiple sequence alignment, domain architecture analysis was performed using InterPro. InterPro is a database that integrates predictive models from multiple sources to identify conserved protein domains and functional sites within a given sequence.
+
+The protein sequences of human SMARCA4 and yeast SNF2 were individually submitted to the InterPro web server for domain annotation.
+
+### Domains Identified in Human SMARCA4
+
+InterPro analysis of SMARCA4 identified the following major domains:
+
+- SNF2 helicase family domain  
+- DEXHc ATPase domain  
+- P-loop NTP-binding domain  
+- BRK domain  
+- Intrinsically disordered regions  
+
+The DEXHc ATPase domain and P-loop NTP-binding domain are responsible for ATP binding and hydrolysis. These domains form the catalytic core of the protein and provide the energy required for chromatin remodelling activity. The helicase domain allows the protein to interact with and translocate along DNA.
+
+The BRK domain is believed to contribute to regulatory or protein–protein interaction functions. Additionally, the presence of intrinsically disordered regions suggests regulatory flexibility in the human protein.
+
+### Domains Identified in Yeast SNF2
+
+InterPro analysis of SNF2 identified:
+
+- SNF2 helicase domain  
+- DEXHc ATPase domain  
+- Helicase C-terminal domain  
+- Bromodomain  
+- HSA domain  
+
+The ATPase and helicase domains correspond to the catalytic motor region of the protein. The bromodomain is known to recognize acetylated histones, which is important for chromatin targeting. The HSA domain contributes to interactions within the chromatin remodelling complex.
+
+### Interpretation of Domain Conservation
+
+The presence of conserved DEXHc ATPase and helicase domains in both SMARCA4 and SNF2 confirms that the ATP-dependent chromatin remodelling mechanism is evolutionarily conserved.
+
+The conserved domains identified through InterPro correspond to the same central region that showed strong conservation in the Clustal Omega alignment. This correlation between sequence conservation and domain architecture strongly supports functional preservation of the catalytic core across species.
+
+Differences observed in regulatory domains, such as the BRK domain in humans and bromodomain in yeast, suggest evolutionary divergence in regulatory mechanisms while maintaining the core ATPase function.
+
+Overall, domain architecture analysis reinforces the conclusion that SMARCA4 and SNF2 share a conserved chromatin remodelling engine with species-specific regulatory adaptations.
