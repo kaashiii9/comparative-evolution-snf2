@@ -129,14 +129,50 @@ This supports functional conservation of the chromatin remodeling engine with di
 
 ---
 
+### 5 — Phylogenetic Analysis
+
+To further investigate evolutionary relationships, orthologous SNF2-family proteins were collected from multiple species representing major eukaryotic lineages.
+
+Species included:
+
+- Human (*Homo sapiens*)
+- House mouse (*Mus musculus*)
+- Norway rat (*Rattus norvegicus*)
+- Chicken (*Gallus gallus*)
+- Blue tit (*Cyanistes caeruleus*)
+- Zebrafish (*Danio rerio*)
+- Reedfish (*Erpetoichthys calabaricus*)
+- Rufous frog (*Rana temporaria*)
+- Fruit fly (*Drosophila melanogaster*)
+- *Caenorhabditis elegans*
+- Yeast (*Saccharomyces cerevisiae*)
+
+Protein sequences were retrieved from the NCBI Protein database in FASTA format. These orthologous sequences were aligned using **Clustal Omega** to generate a multiple sequence alignment across species.
+
+The resulting alignment was used to construct a **phylogenetic tree (phylogram)** using the **Neighbor-Joining clustering method** with **JTT distance correction**. Gaps were excluded from distance calculations.
+
+Phylogenetic evidence:
+
+![Phylogenetic Tree](5_phylogenetic_analysis/phylogenetic_tree.svg)
+
+Key observations:
+
+- Mammalian SMARCA4 proteins (human, mouse, rat) clustered closely together, indicating strong sequence conservation within vertebrates.
+- Avian species (chicken and blue tit) formed a nearby branch, reflecting divergence after vertebrate radiation.
+- Fish and amphibian sequences branched earlier, consistent with known vertebrate evolutionary relationships.
+- Invertebrate homologs from *Drosophila melanogaster* and *Caenorhabditis elegans* showed greater evolutionary distance.
+- The yeast SNF2 protein formed the most distant branch, reflecting the early divergence of fungi from animal lineages.
+
+These results demonstrate that SNF2-family chromatin remodeling ATPases are conserved across diverse eukaryotic species while accumulating evolutionary changes over time.
+
 ## Skills Demonstrated
 
 - Comparative genomics  
 - Protein sequence analysis  
 - Multiple sequence alignment interpretation  
 - Domain architecture analysis  
-- Evolutionary reasoning  
-- Scientific documentation using GitHub  
+- Scientific documentation using GitHub
+- Phylogenetic analysis and evolutionary interpretation 
   
 ---
 
