@@ -137,13 +137,6 @@ This supports functional conservation of the chromatin remodeling engine with di
 - Evolutionary reasoning  
 - Scientific documentation using GitHub  
   
-
----
-
-## Author
-
-Bioinformatics self-directed project focused on evolutionary and structural analysis of chromatin remodeling proteins.
-
 ---
 
 ## Author
