@@ -16,14 +16,15 @@ SMARCA4 and SNF2 are ATP-dependent chromatin remodeling proteins belonging to th
 - Identify evolutionary conservation between human and yeast chromatin remodelers  
 - Detect conserved catalytic ATPase regions  
 - Compare domain architecture between species  
-- Understand functional implications of conserved and divergent regions  
+- Understand functional implications of conserved and divergent regions
+- Observe the Phylogram of related species
 
 ---
 
 ## Tools Used
 
 - NCBI BLASTp – sequence similarity analysis  
-- Clustal Omega – multiple sequence alignment  
+- Clustal Omega – multiple sequence alignment  and simple phylogeny
 - InterProScan – domain architecture annotation  
 - NCBI Protein Database – sequence retrieval  
 
