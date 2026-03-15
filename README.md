@@ -136,15 +136,7 @@ This supports functional conservation of the chromatin remodeling engine with di
 - Domain architecture analysis  
 - Evolutionary reasoning  
 - Scientific documentation using GitHub  
-
----
-
-## Future Work
-
-- Phylogenetic analysis of SNF2 family across species  
-- Structural mapping using AlphaFold  
-- Functional interaction network analysis  
-- Mutation impact analysis  
+  
 
 ---
 
