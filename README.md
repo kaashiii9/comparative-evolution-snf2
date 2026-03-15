@@ -153,7 +153,7 @@ The resulting alignment was used to construct a **phylogenetic tree (phylogram)*
 
 Phylogenetic evidence:
 
-![Phylogenetic Tree](5_phylogenetic_analysis/phylogenetic_tree.svg)
+![Phylogenetic Tree](5_phylogenetic_analysis/phylogram.svg)
 
 Key observations:
 
